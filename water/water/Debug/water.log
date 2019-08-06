@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+  Color.cpp
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(22,46): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(22,37): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(22,28): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(22,19): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(25,46): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(25,37): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(25,28): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  Control.cpp
+  Control.events.cpp
+  DrawSystem.basics.cpp
+C:\Users\ilyin\GitHub\water\water\water\Color.cpp(25,19): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,56): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,56): warning C4244:         with
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,56): warning C4244:         [
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,56): warning C4244:             T=unsigned int
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,56): warning C4244:         ]
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,35): warning C4244:  'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,35): warning C4244:         with
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,35): warning C4244:         [
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,35): warning C4244:             T=unsigned int
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(20,35): warning C4244:         ]
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(22,32): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(22,23): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(23,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(23,21): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(25,33): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(49,27): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  DrawSystem.cpp
+  DrawSystem.loadTextures.cpp
+  Gamepad.cpp
+  geometry.cpp
+C:\Users\ilyin\GitHub\water\water\water\DrawSystem.basics.cpp(49,24): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\geometry.cpp(81,20): warning C4018:  '<': signed/unsigned mismatch
+  getMilliCount.cpp
+  main.cpp
+  Mouse.cpp
+  random.cpp
+C:\Users\ilyin\GitHub\water\water\water\geometry.cpp(92,20): warning C4018:  '<': signed/unsigned mismatch
+  System.cpp
+  Vector2d.cpp
+  Generating Code...
+C:\Users\ilyin\GitHub\water\water\water\random.cpp(6,22): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ilyin\GitHub\water\water\water\random.cpp(6,22): warning C4244: C:\Users\ilyin\GitHub\water\water\water\Gamepad.cpp(32) : warning C4715: 'Gamepad::get': not all control paths return a value
+  water.vcxproj -> C:\Users\ilyin\GitHub\water\water\Debug\water.exe
